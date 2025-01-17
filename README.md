@@ -1,7 +1,7 @@
 # 国内最全 ChatGPT中文版镜像网站资源整理（无限使用GPT-4、4o和o1，无需翻墙）【1月持续更新】
 
 > 更新：2025/01/17 <br/> 
-> 作者：chatgpt-china-site  
+> 作者：chatgpt-china-site 
 
 本项目为大家整理了一些国内可用的 **ChatGPT镜像网站**，方便用户**无需翻墙即可使用上ChatGPT**~
 
